@@ -1,0 +1,3 @@
+add_executable(reverse_evens_tests "reverse_evens_test.cpp")
+target_link_libraries(reverse_evens_tests reverse_evens_library)
+add_test(NAME reverse_evens_tests COMMAND reverse_evens_tests -s)
