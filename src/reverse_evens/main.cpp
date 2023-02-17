@@ -1,6 +1,6 @@
 /*********************
 Name: Julian Cotto
-Assignment 4 - Int Stack
+Reverse Evens main.cpp
 Purpose: contains user facing interactions
 **********************/
 

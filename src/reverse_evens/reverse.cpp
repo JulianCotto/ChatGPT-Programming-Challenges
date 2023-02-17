@@ -1,6 +1,6 @@
 /*********************
 Name: Julian Cotto
-Assignment 4 - Int Stack
+Reverse Evens Functions
 Purpose: contains class functions for reverse class/data structure
 **********************/
 
@@ -19,7 +19,7 @@ vector<int> Reverse::getEvens(int num) { // returns a vector of even numbers fro
 
 vector<int> Reverse::reverseEvens(vector<int> evens) { // reverses the vector of even numbers
     vector<int> reversed = {};
-    for (int i = 0; i < reversed.size() ; i++) {
+    for (int i = 0; i < int(reversed.size()) ; i++) {
         reversed.push_back(reversed[i] - 1);
     }
 

@@ -1,6 +1,6 @@
 /*********************
 Name: Julian Cotto
-Assignment 4 - Int Stack
+Reverse Evens main.cpp source file directives
 Purpose: contains directives for main.cpp
 **********************/
 

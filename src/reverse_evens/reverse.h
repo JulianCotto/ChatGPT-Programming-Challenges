@@ -1,6 +1,6 @@
 /*********************
 Name: Julian Cotto
-Assignment 4 - Int Stack
+Reverse Evens reverse.cpp source file directives
 Purpose: contains directives for reverse.cpp class/data structure
 **********************/
 
